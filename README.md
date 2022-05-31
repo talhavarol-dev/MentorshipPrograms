@@ -5,4 +5,4 @@ Yusuf Demirci Mentorship Program
 
 - [Calculator](#calculator)
 
-![Simulator Screen Shot - iPhone 11 - 2022-05-31 at 22 42 37](https://user-images.githubusercontent.com/80515499/171271752-d07464e5-6eed-4559-9e4e-e7c7c98dfda5.png)
+ - ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80515499/171272197-8a853992-f1e8-4676-9e40-d19e6b14090f.png) 
